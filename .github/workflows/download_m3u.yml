@@ -1,0 +1,270 @@
+name: Download m3u
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * 1'  #毎周一0時実施
+
+jobs:
+  update-list:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup Node 📋
+        uses: actions/setup-node@v1
+        with:
+          node-version: "20.10.x"
+
+#      - name: Install m3u-linter 📋
+#        run: |
+#          npm install -g m3u-linter || true
+#          m3u-linter -c ./m3u-linter.config.json ./work/playlist.m3u8
+
+#      - name: Install iptv-checker 📋
+#        run: |
+#          npm install -g iptv-checker || true
+#          sudo apt-get install -y ffmpeg
+
+
+
+      # local
+      - name: Checkout local repo 🐾
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          path: local
+      - name: mkdir work 🚚
+        run: |
+          cd ${GITHUB_WORKSPACE}/local/
+          if [ ! -d m3u ]; then
+            mkdir m3u
+          fi
+          if [ ! -d py ]; then
+            mkdir py
+          fi
+
+
+
+      # remote 1 https://github.com/iptv-org/iptv/tree/gh-pages
+      - name: 1-1. Checkout remote repo@iptv-org/iptv 🚀
+        uses: actions/checkout@v4
+        with:
+          repository: iptv-org/iptv
+          ref: gh-pages
+          path: remote1
+      - name: 1-2. Copy files 🚚
+        run: |
+          cd ${GITHUB_WORKSPACE}/local/m3u/
+          if [ ! -d 1_iptv-org_iptv ]; then
+            mkdir 1_iptv-org_iptv
+          fi
+          cp -rfp ${GITHUB_WORKSPACE}/remote1/*                1_iptv-org_iptv
+          rm -rf ${GITHUB_WORKSPACE}/local/m3u/1_iptv-org_iptv/raw
+          rm -rf ${GITHUB_WORKSPACE}/local/m3u/1_iptv-org_iptv/sources
+          rm -rf ${GITHUB_WORKSPACE}/local/m3u/1_iptv-org_iptv/subdivisions
+          tree -a
+
+
+
+      # remote 2 https://github.com/Free-TV/IPTV
+      - name: 2-1. Checkout remote repo@Free-TV/IPTV 🚀
+        uses: actions/checkout@v4
+        with:
+          repository: Free-TV/IPTV
+          ref: master
+          path: remote2
+      - name: 2-2. Copy files 🚚
+        run: |
+          cd ${GITHUB_WORKSPACE}/local/m3u/
+          if [ ! -d 2_Free-TV_IPTV ]; then
+            mkdir 2_Free-TV_IPTV
+          fi
+          cp -rfp ${GITHUB_WORKSPACE}/remote2/lists            2_Free-TV_IPTV
+          cp -rfp ${GITHUB_WORKSPACE}/remote2/playlists        2_Free-TV_IPTV
+          cp -rfp ${GITHUB_WORKSPACE}/remote2/playlist.m3u8    2_Free-TV_IPTV
+          cp -rfp ${GITHUB_WORKSPACE}/remote2/epglist.txt      2_Free-TV_IPTV
+          cp -rfp ${GITHUB_WORKSPACE}/remote2/make_playlist.py 2_Free-TV_IPTV
+          tree -a
+
+
+
+      # remote 3　https://github.com/mursor1985/LIVE
+      - name: 3-1. Checkout remote repo@mursor1985/LIVE 🚀
+        uses: actions/checkout@v4
+        with:
+          repository: mursor1985/LIVE
+          ref: main
+          path: remote3
+      - name: 3-2. Copy files 🚚
+        run: |
+          cd ${GITHUB_WORKSPACE}/local/m3u/
+          if [ ! -d 3_mursor1985_live ]; then
+            mkdir 3_mursor1985_live
+          fi
+          cp -rfp ${GITHUB_WORKSPACE}/remote3/*.m3u           3_mursor1985_live
+          tree -a
+
+
+
+      # remote 4 https://github.com/fanmingming/live
+      - name: 4-1. Checkout remote repo@fanmingming/live 🚀
+        uses: actions/checkout@v4
+        with:
+          repository: fanmingming/live
+          ref: main
+          path: remote4
+      - name: 4-2. Copy files 🚚
+        run: |
+          cd ${GITHUB_WORKSPACE}/local/m3u/
+          if [ ! -d 4_fanmingming_live ]; then
+            mkdir 4_fanmingming_live
+          fi
+          cp -rfp ${GITHUB_WORKSPACE}/remote4/tv           4_fanmingming_live
+          cp -rfp ${GITHUB_WORKSPACE}/remote4/radio        4_fanmingming_live
+          tree -a
+
+
+
+      # remote 5 https://github.com/Guovin/iptv-api/tree/gd/output
+      - name: 5-1 .Checkout remote repo@Guovin/iptv-api 🚀
+        uses: actions/checkout@v4
+        with:
+          repository: Guovin/iptv-api
+          ref: gd
+          path: remote5
+      - name: 5-2. Copy files 🚚
+        run: |
+          cd ${GITHUB_WORKSPACE}/local/m3u/
+          if [ ! -d 5_Guovin_iptv ]; then
+            mkdir 5_Guovin_iptv
+          fi
+          cp -rfp ${GITHUB_WORKSPACE}/remote5/output/result.m3u  5_Guovin_iptv
+          tree -a
+
+
+
+      # remote 6 https://github.com/YanG-1989/m3u
+      - name: 6-1 .Ceckout remote repo@YanG-1989/m3u 🚀
+        uses: actions/checkout@v4
+        with:
+          repository: YanG-1989/m3u
+          ref: main
+          path: remote6
+      - name: 6-2. Copy files 🚚
+        run: |
+          cd ${GITHUB_WORKSPACE}/local/m3u/
+          if [ ! -d 6_YanG-1989_m3u ]; then
+            mkdir 6_YanG-1989_m3u
+          fi
+          cp -rfp ${GITHUB_WORKSPACE}/remote6/*.m3u            6_YanG-1989_m3u
+          cp -rfp ${GITHUB_WORKSPACE}/remote6/*.sh             6_YanG-1989_m3u
+          tree -a
+
+
+
+     # remote 7 https://github.com/YueChan/Live
+      - name: 7-1 .Ceckout remote repo@YueChan/Live 🚀
+        uses: actions/checkout@v4
+        with:
+          repository: YueChan/Live
+          ref: main
+          path: remote7
+      - name: 7-2. Copy files 🚚
+        run: |
+          cd ${GITHUB_WORKSPACE}/local/m3u/
+          if [ ! -d 7_YueChan_Live ]; then
+            mkdir 7_YueChan_Live
+          fi
+          cp -rfp ${GITHUB_WORKSPACE}/remote7/*.m3u           7_YueChan_Live
+          tree -a
+
+
+
+     # remote 8 https://github.com/Kimentanm/aptv
+      - name: 8-1 .Ceckout remote repo@Kimentanm/aptv 🚀
+        uses: actions/checkout@v4
+        with:
+          repository: Kimentanm/aptv
+          ref: master
+          path: remote8
+      - name: 8-2. Copy files 🚚
+        run: |
+          cd ${GITHUB_WORKSPACE}/local/m3u/
+          if [ ! -d 8_Kimentanm_aptv ]; then
+            mkdir 8_Kimentanm_aptv
+          fi
+          cp -rfp ${GITHUB_WORKSPACE}/remote8/m3u/*.m3u  8_Kimentanm_aptv
+          tree -a
+
+
+    # remote 9 https://github.com/luongz/iptv-jp
+      - name: 9-1 .Ceckout remote repo@luongz/iptv-jp 🚀
+        uses: actions/checkout@v4
+        with:
+          repository: luongz/iptv-jp
+          ref: main
+          path: remote9
+      - name: 9-2. Copy files 🚚
+        run: |
+          cd ${GITHUB_WORKSPACE}/local/m3u/
+          if [ ! -d 9_luongz_iptv-jp ]; then
+            mkdir 9_luongz_iptv-jp
+          fi
+          cp -rfp ${GITHUB_WORKSPACE}/remote9/*.m3u   9_luongz_iptv-jp
+          tree -a
+
+
+    # remote 10 https://github.com/karenda-jp/AbemaTV
+      - name: 10-1 .Ceckout remote repo@karenda-jp/AbemaTV 🚀
+        uses: actions/checkout@v4
+        with:
+          repository: karenda-jp/AbemaTV
+          ref: main
+          path: remote10
+      - name: 10-2. Copy files 🚚
+        run: |
+          cd ${GITHUB_WORKSPACE}/local/m3u/
+          if [ ! -d 10_karenda-jp_AbemaTV ]; then
+            mkdir 10_karenda-jp_AbemaTV
+          fi
+          cp -rfp ${GITHUB_WORKSPACE}/remote10/*.m3u  10_karenda-jp_AbemaTV
+          tree -a
+
+
+
+
+     # remote 11 https://github.com/ssili126/tv
+      - name: 11-1. Ceckout remote repo@ssili126/tv 🚀
+        uses: actions/checkout@v4
+        with:
+          repository: ssili126/tv
+          ref: main
+          path: remote11
+      - name: 11-2. Copy files 🚚
+        run: |
+          cd ${GITHUB_WORKSPACE}/local/m3u/
+          if [ ! -d 11_ssili126_tv ]; then
+            mkdir 11_ssili126_tv
+          fi
+          cd ${GITHUB_WORKSPACE}/local/py
+          cp -rfp ${GITHUB_WORKSPACE}/remote11/new.py  ./
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.12.3'
+      - name: Install dependencies
+        run: pip install selenium requests futures eventlet aiohttp aiofiles asyncio
+      - name: Run cctv
+        run: |
+          cd ${GITHUB_WORKSPACE}/local/py
+          python ./new.py
+          cp -rfp ./*.txt  ${GITHUB_WORKSPACE}/local/m3u/11_ssili126_tv
+          tree -a
+
+
+
+      - name: Commit & Push changes 🔥
+        uses: Andro999b/push@v1.3
+        with:
+          branch: main
+          directory: ${{ github.workspace }}/local/
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          message: '🚀 auto updated by bot'

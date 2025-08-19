@@ -1,0 +1,61 @@
+name: Check m3u8 file
+on:
+  workflow_dispatch:
+
+jobs:
+  check-m3u8:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Setup Node 📋
+        uses: actions/setup-node@v1
+        with:
+          node-version: "20.10.x"
+
+      - name: Install m3u-linter 📋
+        run: |
+          npm install -g m3u-linter || true
+#          ls -l ./work || true
+#          m3u-linter -c ./M3u-linter.config.json ./work/playlist.m3u8
+
+      - name: Install iptv-checker 📋
+        run: |
+          npm install -g iptv-checker || true
+          sudo apt-get install -y ffmpeg
+
+      - name: Checkout local repo 🐾
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Check files 🔥
+        run: |
+          mkdir -p ${GITHUB_WORKSPACE}/check_result
+          dirwork=""
+          
+          function read_dir(){
+            for file in `ls $1`
+            do
+              if [ -d $1"/"$file ]; then
+                echo "―folder: "$file
+                if [ ! -d ${GITHUB_WORKSPACE}/check_result/$file ]; then
+                  mkdir -p ${GITHUB_WORKSPACE}/check_result/$file
+                fi
+                dirwork=$file"/"
+                read_dir $1"/"$file
+              else
+                echo "⊥file: "$file
+                iptv-checker -o ${GITHUB_WORKSPACE}/check_result -p 100 -t 60000 $1"/"$file
+               # cp -pr ${GITHUB_WORKSPACE}/check_result/online.m3u ${GITHUB_WORKSPACE}/docs/$dirwork$file
+              fi
+            done
+          }
+          read_dir ${GITHUB_WORKSPACE}/work/Guovin.TV
+
+      - name: Commit & Push changes 🔥
+        uses: Andro999b/push@v1.3
+        with:
+          branch: main
+          directory: ${{ github.workspace }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          message: '🚀 auto publish by bot'
+
