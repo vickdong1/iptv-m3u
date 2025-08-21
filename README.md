@@ -41,7 +41,7 @@
 ### 🎉Guovin/iptv ※大佬
 - https://cdn.jsdelivr.net/gh/hst1189/m3u/m3u/5_Guovin_iptv/result.m3u
 
-### 🎉YanG-1989/m3u
+### 🎉YanG-1989/m3u ※大佬
 - https://cdn.jsdelivr.net/gh/hst1189/m3u/m3u/6_YanG-1989_m3u/Gather.m3u
 - https://cdn.jsdelivr.net/gh/hst1189/m3u/m3u/6_YanG-1989_m3u/Migu.m3u
 
@@ -69,7 +69,7 @@
 - https://cdn.jsdelivr.net/gh/hst1189/m3u/m3u/11_ssili126_tv/itvlist.txt
 
 
-### 🔞彩蛋！！
+### 🔞 NSFW彩蛋！！
 - http://adultiptv.net/chs.m3u
 - http://adultiptv.net/videos.m3u8
 
