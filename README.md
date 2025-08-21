@@ -8,75 +8,93 @@
 ![打赏](wechat_reward.png)
 
 # 📖 m3u列表
-### iptv-org/iptv
+
+（以上链接需要挂梯子，或可在地址前加 https://ghp.ci/，或 https://ghgo.xyz/） 如：https://ghp.ci/https://cdn.jsdelivr.net/gh/hst1189/m3u/m3u/1_iptv-org_iptv/index.m3u
+
+### 🎉iptv-org/iptv ※全球电视台 
 - https://cdn.jsdelivr.net/gh/hst1189/m3u/m3u/1_iptv-org_iptv/index.m3u
 - https://cdn.jsdelivr.net/gh/hst1189/m3u/m3u/1_iptv-org_iptv/index.category.m3u
 - https://cdn.jsdelivr.net/gh/hst1189/m3u/m3u/1_iptv-org_iptv/index.country.m3u
 - https://cdn.jsdelivr.net/gh/hst1189/m3u/m3u/1_iptv-org_iptv/index.language.m3u
 - https://cdn.jsdelivr.net/gh/hst1189/m3u/m3u/1_iptv-org_iptv/index.region.m3u
 
-### Free-TV/IPTV
+### 🎉Free-TV/IPTV ※全球电视台
 - https://cdn.jsdelivr.net/gh/hst1189/m3u/m3u/2_Free-TV_IPTV/playlist.m3u8
 
-### YanG-1989/m3u
+### 🎉mursor1985/live ※大佬
+- https://cdn.jsdelivr.net/gh/hst1189/m3u/m3u/3_mursor1985_live/bililive.m3u
+- https://cdn.jsdelivr.net/gh/hst1189/m3u/m3u/3_mursor1985_live/douyuyqk.m3u
+- https://cdn.jsdelivr.net/gh/hst1189/m3u/m3u/3_mursor1985_live/huyayqk.m3u
+- https://cdn.jsdelivr.net/gh/hst1189/m3u/m3u/3_mursor1985_live/iptv.m3u
+- https://cdn.jsdelivr.net/gh/hst1189/m3u/m3u/3_mursor1985_live/yylunbo.m3u
+
+### 🎉fanmingming/live ※大佬
+- https://cdn.jsdelivr.net/gh/hst1189/m3u/m3u/4_fanmingming_live/tv/m3u/index.m3u
+- https://cdn.jsdelivr.net/gh/hst1189/m3u/m3u/4_fanmingming_live/tv/m3u/ipv6.m3u
+- https://cdn.jsdelivr.net/gh/hst1189/m3u/m3u/4_fanmingming_live/tv/m3u/itv.m3u
+- https://cdn.jsdelivr.net/gh/hst1189/m3u/m3u/4_fanmingming_live/radio/m3u/index.m3u
+- https://cdn.jsdelivr.net/gh/hst1189/m3u/m3u/4_fanmingming_live/radio/m3u/fm.m3u
+
+### 🎉Guovin/iptv ※大佬
+- https://cdn.jsdelivr.net/gh/hst1189/m3u/m3u/5_Guovin_iptv/result.m3u
+
+### 🎉YanG-1989/m3u
 - https://cdn.jsdelivr.net/gh/hst1189/m3u/m3u/6_YanG-1989_m3u/Gather.m3u
 - https://cdn.jsdelivr.net/gh/hst1189/m3u/m3u/6_YanG-1989_m3u/Migu.m3u
 
+### 🎉YueChan/Live ※大佬
+- https://cdn.jsdelivr.net/gh/hst1189/m3u/m3u/7_YueChan_Live/APTV.m3u
+- https://cdn.jsdelivr.net/gh/hst1189/m3u/m3u/7_YueChan_Live/Global.m3u
+- https://cdn.jsdelivr.net/gh/hst1189/m3u/m3u/7_YueChan_Live/Hunan.m3u
+- https://cdn.jsdelivr.net/gh/hst1189/m3u/m3u/7_YueChan_Live/IPTV.m3u
+- https://cdn.jsdelivr.net/gh/hst1189/m3u/m3u/7_YueChan_Live/IPV6.m3u
+- https://cdn.jsdelivr.net/gh/hst1189/m3u/m3u/7_YueChan_Live/Radio.m3u
+- https://cdn.jsdelivr.net/gh/hst1189/m3u/m3u/7_YueChan_Live/ZGYD.m3u
+
+### 🎉Kimentanm/aptv ※大佬
+- https://cdn.jsdelivr.net/gh/hst1189/m3u/m3u/8_Kimentanm_aptv/video.m3u
+- https://cdn.jsdelivr.net/gh/hst1189/m3u/m3u/8_Kimentanm_aptv/iptv.m3u
+- https://cdn.jsdelivr.net/gh/hst1189/m3u/m3u/8_Kimentanm_aptv/radio.m3u
+
+### 🎉luongz/iptv-jp ※日本电视台
+- https://cdn.jsdelivr.net/gh/hst1189/m3u/m3u/9_luongz_iptv-jp/jp.m3u
+
+### 🎉karenda-jp/AbemaTV ※日本电视台
+- https://cdn.jsdelivr.net/gh/hst1189/m3u/m3u/10_karenda-jp_AbemaTV/abema240P.m3u
+
+### 🎉karenda-jp/AbemaTV ※日本电视台
+- https://cdn.jsdelivr.net/gh/hst1189/m3u/m3u/11_ssili126_tv/itvlist.txt
 
 
-### YueChan/Live 
-- https://raw.githubusercontent.com/hst1189/m3u/main/APTV.m3u
-- https://raw.githubusercontent.com/YueChan/Live/main/Global.m3u
-- https://raw.githubusercontent.com/YueChan/Live/main/Adult.m3u
-- https://raw.githubusercontent.com/YueChan/Live/main/IPTV.m3u
-- https://raw.githubusercontent.com/YueChan/Live/main/Radio.m3u
-
-（以上链接需要挂梯子，或可在地址前加 https://ghp.ci/，或 https://ghgo.xyz/）
-如：https://ghp.ci/https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/APTV.m3u
-
-### Kimentanm/aptv
-
-- https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u
-- https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/radio.m3u
-
-### fanmingming/live
-- https://live.fanmingming.com/
-- https://live.fanmingming.com/tv/m3u/ipv6.m3u （原链接貌似已被墙，可用下方链接替代）
-- 备用链接：https://ghgo.xyz/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/m3u/ipv6.m3u
+### 🔞彩蛋！！
+- http://adultiptv.net/chs.m3u
+- http://adultiptv.net/videos.m3u8
 
 
-
-### Free-TV/IPTV
-                      ※全球电视台
-
-
-### luongz/iptv-jp
-  ※日本电视台
-
-### karenda-jp/AbemaTV
-   ※日本电视台
 
 
 # 📖 食用方法
 1. 下载.m3u 导入本地播放器即可
 2. 或者URL直接指定
 
+
+
 # 📖 m3u 收录的电视源
-☑️[gituhub地址](https://github.com/iptv-org/iptv/tree/gh-pages)   ※全球电视台
+☑️[gituhub地址](https://github.com/iptv-org/iptv/)                ※全球电视台
+
 ☑️[gituhub地址](https://github.com/Free-TV/IPTV)                  ※全球电视台
+
 ☑️[gituhub地址](https://github.com/fanmingming/live)              ※全球电视台
+
 ☑️[gituhub地址](https://github.com/YanG-1989/m3u)                 ※大佬
+
 ☑️[gituhub地址](https://github.com/YueChan/Live)                  ※大佬
+
 ☑️[gituhub地址](https://github.com/Kimentanm/aptv)                ※大佬
+
 ☑️[gituhub地址](https://github.com/luongz/iptv-jp)                ※日本电视台
+
 ☑️[gituhub地址](https://github.com/karenda-jp/AbemaTV)            ※日本电视台
-
-### 彩蛋！！
-http://adultiptv.net/chs.m3u
-http://adultiptv.net/videos.m3u8
-
-
-
 
 
 
@@ -89,12 +107,6 @@ http://adultiptv.net/videos.m3u8
 - https://xmltv.tvkaista.net/                           ※各国EPG - 不定期更新（实际用的是 iptv-org ）
 - https://xmltv.tvkaista.net/guides/tv.cctv.com.xml     ※中国电视台EPG - 不定期更新
 - https://assets.livednow.com/guide.html                ※检测（https://epg.pw） - 毎日０時更新
-
-
-
-
-
-</details>
 
 
 
