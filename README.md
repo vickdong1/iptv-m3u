@@ -87,7 +87,7 @@
 
 ☑️[gituhub地址](https://github.com/Free-TV/IPTV)                  ※全球电视台
 
-☑️[gituhub地址](https://github.com/fanmingming/live)              ※全球电视台
+☑️[gituhub地址](https://github.com/fanmingming/live)              ※大佬
 
 ☑️[gituhub地址](https://github.com/YanG-1989/m3u)                 ※大佬
 
