@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="1TV.af@SD" tvg-logo="https://i.imgur.com/EEcNI9E.png" group-title="General",1TV
 https://live20.bozztv.com/dvrfl05/gin-1tvafg/index.m3u8
+#EXTINF:-1 tvg-id="3ABNInternational.us" tvg-logo="https://i.imgur.com/8YMLPA3.png" group-title="Religious",3ABN International
+https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="6TVTelugu.in@SD" tvg-logo="https://i.imgur.com/l3EcRnZ.png" group-title="News",6 TV Telugu (720p)
 https://cdn-1.pishow.tv/live/232/master.m3u8
 #EXTINF:-1 tvg-id="7SMusic.in" tvg-logo="https://i.imgur.com/zDiIhdN.png" group-title="Music",7S Music (576p) [Not 24/7]
@@ -15,6 +17,8 @@ https://amg01281-9xmediapvtltd-9xtashan-samsungin-xz1sd.amagi.tv/playlist/amg012
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
 #EXTINF:-1 tvg-id="10TV.in@SD" tvg-logo="https://i.imgur.com/TauWtuJ.png" group-title="News",10 TV (720p)
 https://cdn-1.pishow.tv/live/391/master.m3u8
+#EXTINF:-1 tvg-id="24HorasInternacional.es@SD" tvg-logo="https://i.imgur.com/IUVRm5L.png" group-title="News;Public",24 Horas Internacional
+https://viamotionhsi.netplus.ch/live/eds/canal24horas/browser-HLS8/canal24horas.m3u8
 #EXTINF:-1 tvg-id="92NewsHD.pk" tvg-logo="https://i.imgur.com/gp1Ao4s.jpeg" group-title="News",92 News HD (720p)
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 #EXTINF:-1 tvg-id="99TV.in@SD" tvg-logo="https://i.imgur.com/dZA4gel.png" group-title="News",99TV (720p)
@@ -40,6 +44,8 @@ https://aasthaott.akamaized.net/110923/smil:aasthakannada.smil/playlist.m3u8
 https://aasthaott.akamaized.net/110923/smil:aasthatamil.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="AasthaTelugu.in@SD" tvg-logo="https://i.imgur.com/P0IIqZn.png" group-title="Religious",Aastha Telugu (480p)
 https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="ABCNewsLive.us" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png" group-title="News",ABC News (720p)
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-id="ABNAfghanistan.us" tvg-logo="https://i.imgur.com/LI30mAt.png" group-title="Religious",ABN Afghanistan (540p)
 https://mediaserver.abnvideos.com/streams/abnafghanistan.m3u8
 #EXTINF:-1 tvg-id="ABNAndhraJyoti.in@SD" tvg-logo="https://i.imgur.com/gcoiZJ3.png" group-title="News",ABN Andhra Jyoti (720p)
@@ -72,6 +78,8 @@ https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist
 https://hls.afintl.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AikNews.pk@SD" tvg-logo="https://i.imgur.com/svPXoAP.png" group-title="News",Aik News
 https://video.primexsports.com/pnn/live/playlist.m3u8
+#EXTINF:-1 tvg-id="AlJazeera.qa@English" tvg-logo="https://i.imgur.com/7bRVpnu.png" group-title="News",Al Jazeera English (1080p)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-jazeera-english/playlist.m3u8
 #EXTINF:-1 tvg-id="AlankarTV.in@SD" tvg-logo="https://i.imgur.com/fY3ApRs.png" group-title="Entertainment",Alankar TV (720p)
 https://livetv.tarangplus.in/alankar-origin/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AMC.af" tvg-logo="https://i.imgur.com/yj8RNnG.png" group-title="Music",AMC (1080p)
@@ -96,6 +104,8 @@ https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
 http://dvrfl05.bozztv.com/gin-arezotv/index.m3u8
 #EXTINF:-1 tvg-id="ArgusNews.in" tvg-logo="https://i.imgur.com/cGjRe01.png" group-title="News",Argus News (1080p)
 https://live.argusnews.in/hls/argustv.m3u8
+#EXTINF:-1 tvg-id="ArirangUN.kr" tvg-logo="https://i.imgur.com/Jdy3WNm.png" group-title="News",Arirang TV UN (1080p)
+https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="ArtistAloud.in" tvg-logo="https://i.imgur.com/urLlfSo.png" group-title="Music",Artist Aloud (1080p) [Not 24/7]
 https://live.hungama.com/linear/artist-aloud/playlist.m3u8
 #EXTINF:-1 tvg-id="ARYMusik.pk" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bb/ARY_Musik_logo.png" group-title="Music" http-referrer="https://live.arydigital.tv/",ARY Musik (1080p)
@@ -153,6 +163,8 @@ https://tv.ddns.vn/tv/bbcworldnews/index.m3u8
 https://cdn-1.pishow.tv/live/397/master.m3u8
 #EXTINF:-1 tvg-id="Bharat24.in@SD" tvg-logo="https://i.imgur.com/Jx1OX9N.png" group-title="News",Bharat24 (1080p)
 https://legitpro.co.in/bharat24live/bharat24live/index.m3u8
+#EXTINF:-1 tvg-id="BharatExpress.in@SD" tvg-logo="https://bharatexpress.com/wp-content/themes/newstrackcms/images/bharat-express-new-logo.png" group-title="News",Bharat Express (480p)
+https://stream1.livebox.co.in/VCAREhls/live.m3u8
 #EXTINF:-1 tvg-id="BharatSamacharTV.in@SD" tvg-logo="https://i.imgur.com/x5f8E3K.png" group-title="News",Bharat Samachar TV (576p)
 https://yuppftalive.akamaized.net/080823/bharatsamachar/playlist.m3u8
 #EXTINF:-1 tvg-id="BhojpuriCinema.in@SD" tvg-logo="https://i.imgur.com/ABxIO7r.jpg" group-title="Movies",Bhojpuri Cinema (720p)
@@ -211,12 +223,16 @@ https://go5lmqxjyawb-hls-live.5centscdn.com/Chekad/271ddf829afeece44d8732757fba1
 https://cdn-1.pishow.tv/live/1451/master.m3u8
 #EXTINF:-1 tvg-id="CityNewsHD.pk" tvg-logo="https://i.imgur.com/GtYG9lG.png" group-title="News",City News HD (1080p)
 http://cdn.citymediagroupreg.com:1935/citynewshd/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="CNAInternational.sg" tvg-logo="https://i.imgur.com/xWglicB.png" group-title="News",CNA International (1080p)
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
 #EXTINF:-1 tvg-id="CNBCAsia.sg@SD" tvg-logo="https://i.imgur.com/Mn8Rsup.png" group-title="Business",CNBC Asia (576p) [Geo-blocked]
 https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="CNBCBajar.in" tvg-logo="https://i.imgur.com/cORao6C.png" group-title="Business",CNBC Bajar (504p) [Geo-blocked]
 https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
 #EXTINF:-1 tvg-id="CNBCTV18.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/CNBC_TV18.png" group-title="Business",CNBC TV18 (1080p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cnbc-tv18/master.m3u8
+#EXTINF:-1 tvg-id="CNBCWorld.us" tvg-logo="https://zap2it.tmsimg.com/h3/NowShowing/26849/s26849_ll_h15_ab.png?w=512" group-title="Business",CNBC World
+https://fl3.moveonjoy.com/CNBC_World/index.m3u8
 #EXTINF:-1 tvg-id="CTVNAKDPlus.in@SD" tvg-logo="https://i.imgur.com/QThBcw4.png" group-title="News",CTVN AKD Plus (576p)
 https://yuppftalive.akamaized.net/080823/ctvnakdplus/playlist.m3u8
 #EXTINF:-1 tvg-id="CVREnglish.in@SD" tvg-logo="https://i.imgur.com/k0WTQKi.png" group-title="News",CVR English (720p)
@@ -227,8 +243,8 @@ https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01448-samsungin-dabanggin-samsung
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="DarshanaTV.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/Darshana-TV-Logo.jpg" group-title="Entertainment",Darshana TV (720p)
 https://cdn-2.pishow.tv/live/1453/master.m3u8
-#EXTINF:-1 tvg-id="DDArunPrabha.in" tvg-logo="https://i.imgur.com/dHURIzT.png" group-title="General",DD Arun Prabha
-https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index_3.m3u8
+#EXTINF:-1 tvg-id="DDArunPrabha.in@SD" tvg-logo="https://i.imgur.com/dHURIzT.png" group-title="General",DD Arun Prabha (360p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/308556d9fd1246adb479ef012a39bbfe/index.m3u8
 #EXTINF:-1 tvg-id="DDAssam.in" tvg-logo="https://i.imgur.com/UAkOyRI.png" group-title="General",DD Assam
 https://d2lk5u59tns74c.cloudfront.net/out/v1/d380bf5c167b4319a46cdd8204bc26b2/index.m3u8
 #EXTINF:-1 tvg-id="DDBangla.in" tvg-logo="https://i.imgur.com/RHly9gC.png" group-title="General",DD Bangla
@@ -245,6 +261,8 @@ https://cdn-1.pishow.tv/live/15/master.m3u8
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/4a7a0c8a-c58d-43d6-baff-13492d67bf3e/2.m3u8
 #EXTINF:-1 tvg-id="DDHaryana.in" tvg-logo="https://i.imgur.com/1T92u0F.jpeg" group-title="General",DD Haryana
 https://d2lk5u59tns74c.cloudfront.net/out/v1/950fc69666474351bde0a32b9600c804/index.m3u8
+#EXTINF:-1 tvg-id="DDHimachalPradesh.in@SD" tvg-logo="https://i.imgur.com/5IfuVGR.png" group-title="General",DD Himachal Pradesh (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/afd2e335b0ba40eb9bdf1096118c6ede/index.m3u8
 #EXTINF:-1 tvg-id="DDJharkhand.in" tvg-logo="https://i.imgur.com/VKpjoD9.png" group-title="General",DD Jharkhand
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2c6c5c20-6afe-47c4-934f-a0d7002cb151/2.m3u8
 #EXTINF:-1 tvg-id="DDKashir.in@SD" tvg-logo="https://i.imgur.com/1EI4LOf.png" group-title="General",DD Kashir (720p)
@@ -255,14 +273,14 @@ https://cdn-6.pishow.tv/live/9/master.m3u8
 https://cdn-1.pishow.tv/live/31/master.m3u8
 #EXTINF:-1 tvg-id="DDMalayalam.in" tvg-logo="https://i.imgur.com/ywm2dTl.png" group-title="Entertainment",DD Malayalam
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/562ee8f9-9950-48a0-ba1d-effa00cf0478/2.m3u8
-#EXTINF:-1 tvg-id="DDManipur.in" tvg-logo="https://i.imgur.com/CvmIwPF.png" group-title="General",DD Manipur
-https://ddmanipur.org/hls/stream1.m3u8
-#EXTINF:-1 tvg-id="DDMeghalaya.in" tvg-logo="https://i.imgur.com/ik83EbG.png" group-title="General",DD Meghalaya
-https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/dafc23f6-c3d9-44d7-8d31-27aa80efe0b7/2.m3u8
+#EXTINF:-1 tvg-id="DDManipur.in@SD" tvg-logo="https://i.imgur.com/CvmIwPF.png" group-title="General",DD Manipur (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/8b75afc6576f450e8f554b6c877681d2/index.m3u8
+#EXTINF:-1 tvg-id="DDMeghalaya.in@SD" tvg-logo="https://i.imgur.com/ik83EbG.png" group-title="General",DD Meghalaya (504p)
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/4f81bc8d13dd49b484da35988abb8729/index.m3u8
 #EXTINF:-1 tvg-id="DDMizoram.in" tvg-logo="https://i.imgur.com/I5zT1DG.png" group-title="Undefined",DD Mizoram
 https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/5f0e3651-3393-41d2-a137-a4513be8f3d5/2.m3u8
-#EXTINF:-1 tvg-id="DDNagaland.in" tvg-logo="https://i.imgur.com/HUL4aF6.png" group-title="General",DD Nagaland
-https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/4437588d-6c41-4a61-91ca-33a6900617a6/2.m3u8
+#EXTINF:-1 tvg-id="DDNagaland.in@SD" tvg-logo="https://i.imgur.com/HUL4aF6.png" group-title="General",DD Nagaland (504p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/29c92e0bef954a6d9b0908d1be29c1f0/index.m3u8
 #EXTINF:-1 tvg-id="DDNational.in@HD" tvg-logo="https://i.imgur.com/MohlE5B.png" group-title="Entertainment",DD National HD (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 #EXTINF:-1 tvg-id="DDNews.in@SD" tvg-logo="https://i.imgur.com/H4f9R7n.png" group-title="News",DD News (1080p)
@@ -279,6 +297,8 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/66dcc3ebe182447ba42837e746cf0c7c/in
 https://d2lk5u59tns74c.cloudfront.net/out/v1/26e915d6d12b4a06822c5e33c088ed56/index.m3u8
 #EXTINF:-1 tvg-id="DDSports.in@SD" tvg-logo="https://i.imgur.com/J2Ky5OO.png" group-title="Sports",DD Sports (720p)
 https://cdn-6.pishow.tv/live/13/master.m3u8
+#EXTINF:-1 tvg-id="DDTamil.in@SD" tvg-logo="https://yt3.googleusercontent.com/gOPDl0p0Ssungy3AfKG9MNHeW1QEwRmoFw0_dwDsUulDPE5Hv9nicA3MCjYyzYInzw8kbd5C=s900-c-k-c0x00ffffff-no-rj" group-title="General",DD Tamil (1080p)
+https://d2lk5u59tns74c.cloudfront.net/out/v1/abf46b14847e45499f4a47f3a9afe93d/index.m3u8
 #EXTINF:-1 tvg-id="DDTripura.in" tvg-logo="https://i.imgur.com/ctlcdOw.png" group-title="General",DD Tripura
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/52b998e9510d41c29ad2ceca8ea3d849/index_3.m3u8
 #EXTINF:-1 tvg-id="DDUrdu.in@SD" tvg-logo="https://i.imgur.com/OiQPS34.png" group-title="General",DD Urdu (720p)
@@ -315,12 +335,16 @@ http://116.90.120.149:8000/play/a0b3/index.m3u8
 http://live.divyadarshantv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="DoctorLive.in" tvg-logo="https://i.imgur.com/D6cMaVs.png" group-title="Lifestyle",Doctor Live (720p)
 https://5a1178b42cc03.streamlock.net/8250/8250/playlist.m3u8
+#EXTINF:-1 tvg-id="ducktv.sk" tvg-logo="https://i.imgur.com/gRFQ35W.png" group-title="Kids",ducktv (720p)
+https://jmp2.uk/stvp-ESBC4700001GR
 #EXTINF:-1 tvg-id="DunyaNawTV.af" tvg-logo="https://i.ibb.co/nQkLgyn/dunya-naw-tv.png" group-title="General",Dunya Naw TV (576p)
 https://dunyanhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="DunyaNews.pk" tvg-logo="https://i.imgur.com/1PbtW0y.png" group-title="News",Dunya News (INT Feed) (720p) [Not 24/7]
 https://imob.dunyanews.tv/livehd/ngrp:dunyalivehd_2_all/playlist.m3u8
 #EXTINF:-1 tvg-id="DurontoTV.bd@SD" tvg-logo="https://i.imgur.com/gXsddRK.png" group-title="Kids",Duronto TV (720p)
 https://tvsen4.aynaott.com/durontotv/index.m3u8
+#EXTINF:-1 tvg-id="DW.de@English" tvg-logo="https://i.imgur.com/8MRNFb9.png" group-title="News",DW English (1080p)
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 #EXTINF:-1 tvg-id="DY365.in" tvg-logo="https://i.imgur.com/8LZS3z6.png" group-title="News",DY 365 (360p)
 https://cdn.smartstream.video/smartstream-us/dy365/dy365/playlist.m3u8
 #EXTINF:-1 tvg-id="E24.in" tvg-logo="https://i.imgur.com/vCaPNTe.png" group-title="Entertainment",E 24
@@ -357,6 +381,12 @@ https://dssp63pjfajz9.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8
 https://d2z3q47xzd535o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264-2_cloud_in/index.m3u8
 #EXTINF:-1 tvg-id="EuroIndieMusicChartTV.it" tvg-logo="https://i.imgur.com/lF0iofX.png" group-title="Music",Euro Indie Music Chart TV (360p)
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsEnglish.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews English (720p)
+https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="EuronewsFrench.fr@HD" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews French HD
+https://viamotionhsi.netplus.ch/live/eds/euronews/browser-HLS8/euronews.m3u8
+#EXTINF:-1 tvg-id="EuronewsPortuguese.fr" tvg-logo="https://i.imgur.com/8t9mdg9.png" group-title="News",Euronews Português (1080p)
+https://euronews-live-por-pt.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/bitok/eyJzdGlkIjoiOWE0ZWZmNzItMmE0ZC00NmFjLWIzZjgtNzJiNjIzODU3N2I5IiwibWt0IjoicHQiLCJjaCI6NjU3MiwicHRmIjo1fQ==/26035/euronews-pt.m3u8
 #EXTINF:-1 tvg-id="EWTN.us@AfricaAsia" tvg-logo="https://i.imgur.com/sua70RO.png" group-title="Religious",EWTN Africa Asia (720p)
 https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
 #EXTINF:-1 tvg-id="EWTN.us@AsiaPacific" tvg-logo="https://i.imgur.com/sua70RO.png" group-title="Religious",EWTN Asia-Pacific (720p) [Not 24/7]
@@ -371,6 +401,8 @@ https://ott.livelegitpro.in/fatehtv/fatehtv/index.m3u8
 https://fl1002.bozztv.com/gin-fazatv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="FazalTV.pk" tvg-logo="https://i.imgur.com/c0fvKia.png" group-title="Religious",Fazal TV (1080p)
 http://cdn9.live247stream.com/punjabitvcanada/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="FIFAPlus.uk@English" tvg-logo="https://i.imgur.com/l5iax42.png" group-title="Sports",FIFA+ (720p)
+https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 #EXTINF:-1 tvg-id="FilamchiBhojpuri.in@SD" tvg-logo="https://pbs.twimg.com/profile_images/1356516689601564672/g3Umyo2t_400x400.jpg" group-title="Movies",Filamchi Bhojpuri (1080p)
 https://epiconvh.akamaized.net/live/filamchi/master.m3u8
 #EXTINF:-1 tvg-id="Filmeraa.in" tvg-logo="https://i.ibb.co/p4BwH0x/images-5.png" group-title="Movies",Filmeraa (720p)
@@ -383,6 +415,10 @@ http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
 http://14.199.164.20:4001/play/a0qx/index.m3u8
 #EXTINF:-1 tvg-id="FoxTV.in" tvg-logo="https://i.imgur.com/cvpDeYH.png" group-title="General",Fox TV (720p) [Not 24/7]
 http://stream-live.in:11037/hls/foxtv.m3u8
+#EXTINF:-1 tvg-id="France24.fr@English" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg" group-title="News",France 24 English (1080p)
+https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8
+#EXTINF:-1 tvg-id="FTVTaiwan.tw" tvg-logo="https://i.imgur.com/p108I5g.png" group-title="News",FTV Taiwan (民視台灣台) (720p) [Not 24/7]
+http://seb.sason.top/ptv/ftv.php?id=tw
 #EXTINF:-1 tvg-id="GaundaPunjabTV.ca" tvg-logo="https://i.imgur.com/ArRZRM3.png" group-title="General",Gaunda Punjab TV
 http://cdn6.live247stream.com/gaundapunjab/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="GawahiTV.pk" tvg-logo="https://i.imgur.com/0W6zzHS.png" group-title="Religious",Gawahi TV (720p)
@@ -397,8 +433,8 @@ https://jk3lz82elw79-hls-live.5centscdn.com/GEONEWS/3500ba09d0538297440ca620c9dd
 https://jk3lz82elw79-hls-live.5centscdn.com/newgeonews/07811dc6c422334ce36a09ff5cd6fe71.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="GlobalPunjab.in" tvg-logo="https://i.imgur.com/WDLqcWW.png" group-title="News",Global Punjab (1080p)
 https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8
-#EXTINF:-1 tvg-id="Goa365.in" tvg-logo="https://www.goa365.tv/images/GOA-365-Logo.jpg" group-title="News",Goa365 (720p)
-https://asia.mslivestream.net/mslive/f9fe659e19d111baf97526ad526b55b4.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Goa365.in@SD" tvg-logo="https://www.goa365.tv/images/GOA-365-Logo.jpg" group-title="News",Goa365 (1080p)
+https://ktismaservers.in:3086/live/goa365live.m3u8
 #EXTINF:-1 tvg-id="GoodNewsToday.in@SD" tvg-logo="https://i.imgur.com/iMzUrb9.png" group-title="News",Good News Today (720p)
 https://aajtaklive.vgcdn.net/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/3196cced-ce29-4219-9809-f07ccdaa02b9/vglive-sk-848805/master.m3u8
 #EXTINF:-1 tvg-id="GoodShepherdTV.in" tvg-logo="https://i.imgur.com/1vQH3cM.png" group-title="Religious",Good Shepherd TV (720p)
@@ -445,6 +481,8 @@ https://tv.hiruhost.com:1936/8012/8012/playlist.m3u8
 https://streamer12.vdn.dstreamone.net/hktv/hktv/playlist.m3u8
 #EXTINF:-1 tvg-id="HMTV.in@SD" tvg-logo="https://i.imgur.com/GJ52eFs.png" group-title="News",HMTV (720p)
 https://cdn-1.pishow.tv/live/280/master.m3u8
+#EXTINF:-1 tvg-id="HNN24x7.in@SD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCVaHnXsaEt_m9s71ZRgHMPUckFZ8cW87J-AsQh0Q6pA&s" group-title="News",HNN 24x7 (576p)
+https://ott.livelegitpro.in:9899/hnnnews/hnnnews/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="HopeChannelIndia.in" tvg-logo="https://i.imgur.com/wPzPUrK.png" group-title="Religious",Hope Channel India (1080p)
 https://videodelivery.net/98334a974d26e45759c6baa8bceabbcf/manifest/video.m3u8
 #EXTINF:-1 tvg-id="HornbillTV.in@SD" tvg-logo="https://i.imgur.com/7Y4vQnG.png" group-title="News",Hornbill TV (576p)
@@ -493,6 +531,8 @@ https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
 https://cdn-1.pishow.tv/live/411/master.m3u8
 #EXTINF:-1 tvg-id="INH24x7.in" tvg-logo="https://i.imgur.com/Es3QiVx.png" group-title="News",INH 24x7 (360p)
 https://7epd6o8edk9b-hls-live.wmncdn.net/inh24/live.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="InsightTV.nl" tvg-logo="https://i.imgur.com/7xmaoL0.png" group-title="Sports",Insight TV (720p)
+https://insighttv-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Insync.in@SD" tvg-logo="https://i.imgur.com/fAJdazJ.png" group-title="Music",Insync (576p)
 https://yuppftalive.akamaized.net/080823/insync/playlist.m3u8
 #EXTINF:-1 tvg-id="IPlusTV.in" tvg-logo="https://i.imgur.com/rnfEh0c.png" group-title="Religious",iPlus TV (1080p) [Not 24/7]
@@ -559,6 +599,8 @@ http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
 https://oqgdrkxby4rm-hls-live.5centscdn.com/kaumudytv/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="KayhanTV.af" tvg-logo="https://i.imgur.com/2MDjU7x.png" group-title="Music",Kayhan TV (720p)
 https://playout395.livestreamingcdn.com/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-logo="https://i.imgur.com/7DqgELX.png" group-title="General",KBS World
+http://mytv.dothome.co.kr/ch/catv/7.php
 #EXTINF:-1 tvg-id="KCLTV.in" tvg-logo="https://i.imgur.com/bkp9dIm.png" group-title="Entertainment",KCL TV (720p)
 https://kcltv.livebox.co.in/kclhls/live.m3u8
 #EXTINF:-1 tvg-id="KeralaVision.in" tvg-logo="https://i.imgur.com/SWNjyyp.png" group-title="Entertainment",Kerala Vision (720p)
@@ -577,6 +619,8 @@ https://trn03.tulix.tv/gf-khybernews/index.m3u8
 https://streamer12.vdn.dstreamone.net/kingtv/kingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="KiteVicters.in" tvg-logo="https://i.imgur.com/kj4OEsb.png" group-title="Education",KITE Victers (Kerala) (720p) [Not 24/7]
 https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="KolkataTV.in@SD" tvg-logo="https://i.imgur.com/Umi45ZJ.png" group-title="News",Kolkata TV (1080p)
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/kolkata-tv/index.m3u8
 #EXTINF:-1 tvg-id="LahoreNews.pk" tvg-logo="https://i.imgur.com/bQfQeEA.jpeg" group-title="News",Lahore News (720p) [Not 24/7]
 https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
 #EXTINF:-1 tvg-id="LemarTV.af@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5b/Lemar_logo_2016.png" group-title="Entertainment",Lemar TV
@@ -648,12 +692,12 @@ https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8
 https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="MetroTV.in" tvg-logo="https://i.ibb.co/CBgJ4QV/metro-logo.jpg" group-title="General",Metro TV (576p)
 https://2nbyjxw5l53k-hls-live.qezycdn.com/metrotv/live.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Mh1Music.in" tvg-logo="https://i.imgur.com/Pi6ldXm.png" group-title="Music",MH One Music (1080p)
-https://mhlive.paramountinfosystem.com/mhonemusictest/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="Mh1News.in" tvg-logo="https://i.imgur.com/RH52BX4.png" group-title="News",MH One News (1080p)
-https://mhlive.paramountinfosystem.com/mhonetest/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="MHOneShraddha.in" tvg-logo="https://i.imgur.com/Lrm8qTO.png" group-title="Religious",MH One Shraddha (1080p)
-https://mhlive.paramountinfosystem.com/mhoneshraddhatest/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="Mh1Music.in@SD" tvg-logo="https://i.imgur.com/Pi6ldXm.png" group-title="Music",Mh 1 Music (720p)
+https://mhonemusic.com/hls/1/stream.m3u8
+#EXTINF:-1 tvg-id="Mh1News.in@SD" tvg-logo="https://i.imgur.com/RH52BX4.png" group-title="News",Mh 1 News (1080p)
+https://mhonenews.in/hls/stream.m3u8
+#EXTINF:-1 tvg-id="MHOneShraddha.in@SD" tvg-logo="https://i.imgur.com/Lrm8qTO.png" group-title="Religious",MH One Shraddha (720p)
+https://mhoneshaddha.com/hls/1/stream.m3u8
 #EXTINF:-1 tvg-id="MirrorNow.in" tvg-logo="https://i.imgur.com/N96LwKG.png" group-title="News",Mirror Now (720p)
 https://pubads.g.doubleclick.net/ssai/event/DXkHhH2QSnma-HnE3QJqlA/master.m3u8
 #EXTINF:-1 tvg-id="MithilaNepalTV.np" tvg-logo="https://i.ibb.co/CWn3fH9/1689333550464.jpg" group-title="General",Mithila Nepal TV (1080p)
@@ -686,6 +730,8 @@ http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60
 http://144.217.70.181:9587/hin2/MTVINDIA/index.m3u8
 #EXTINF:-1 tvg-id="Munnaaru.mv" tvg-logo="https://i.imgur.com/8YiSEX1.png" group-title="Religious",Munnaaru
 https://customer-ujex1meek7koqd9x.cloudflarestream.com/6a46f90ca384c7419efdbef3ff1892a9/manifest/video.m3u8
+#EXTINF:-1 tvg-id="MunsifTV.in@SD" tvg-logo="https://i.imgur.com/FQLqnE8.png" group-title="News",Munsif TV (720p)
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/munsif-tv/e5ae862b-c65c-4b17-b9a8-038853525c64/0.m3u8
 #EXTINF:-1 tvg-id="MusicIndia.in@SD" tvg-logo="https://i.imgur.com/kXTCYqg.png" group-title="Music",Music India (720p) [Not 24/7]
 https://cdn-2.pishow.tv/live/226/master.m3u8
 #EXTINF:-1 tvg-id="NambikkaiTV.in" tvg-logo="https://i.imgur.com/xnjkUOs.png" group-title="Family",Nambikkai TV (576p)
@@ -700,6 +746,8 @@ https://wearelive.livebox.co.in/naxatratvhls/naxatratv.m3u8
 https://epiconvh.akamaized.net/live/nazara/master.m3u8
 #EXTINF:-1 tvg-id="NazranaMusic.in" tvg-logo="https://i.imgur.com/38Run52.png" group-title="Music",Nazrana (720p) [Not 24/7]
 https://live.hungama.com/linear/nazrana/playlist.m3u8
+#EXTINF:-1 tvg-id="NBTWorld.th" tvg-logo="https://i.imgur.com/GUQhLeg.png" group-title="General",NBT World (720p)
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64/chunklist_w507269531_b2128000.m3u8
 #EXTINF:-1 tvg-id="NCV.in" tvg-logo="https://i.imgur.com/HZy6x27.png" group-title="Entertainment",NCV (720p)
 http://131.153.22.8:1935/NCV/ncvstream/playlist.m3u8
 #EXTINF:-1 tvg-id="NDTV24x7.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/NDTV_247.svg/512px-NDTV_247.svg.png" group-title="News",NDTV 24X7 (480p) [Not 24/7]
@@ -744,6 +792,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
 #EXTINF:-1 tvg-id="NHKWorldJapan.jp" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Culture;News",NHK World-Japan (720p)
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+#EXTINF:-1 tvg-id="NHKWorldJapan.jp@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" group-title="Culture;News",NHK World-Japan HD
+https://viamotionhsi.netplus.ch/live/eds/nhk/browser-HLS8/nhk.m3u8
 #EXTINF:-1 tvg-id="NickHDPlus.in@SD" tvg-logo="https://i.imgur.com/nJPbTet.png" group-title="Kids",Nick HD+ (1080p) [Not 24/7]
 http://116.90.120.149:8000/play/a0cw/index.m3u8
 #EXTINF:-1 tvg-id="NickJr.in" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png" group-title="Kids",Nick Jr India (1080p)
@@ -858,6 +908,10 @@ https://livestream.rajtv.tv/hlslive/Admin/px08241087/live/Raj_Musix/master_1.m3u
 https://cdn-1.pishow.tv/live/1213/master.m3u8
 #EXTINF:-1 tvg-id="RajNewsMalayalam.in" tvg-logo="https://i.imgur.com/6JVLzaa.png" group-title="News",Raj News Malayalam
 https://rajnewsmalayalam.ylivestream.com/rajnewsmalayalam/index.m3u8
+#EXTINF:-1 tvg-id="RajNewsTelugu.in@SD" tvg-logo="https://i.imgur.com/vGl0Zrj.png" group-title="News",Raj News Telugu (1080p) [Not 24/7]
+https://livestream.rajtvnet.in/hlslive/Admin/px08241089/live/Raj_News_Telugu/master_1.m3u8
+#EXTINF:-1 tvg-id="RajPariwar.in@SD" tvg-logo="https://i.imgur.com/lV9ZGx9.png" group-title="Undefined",Raj Pariwar (1080p) [Not 24/7]
+https://livestream.rajtvnet.in/hlslive/Admin/px08241089/live/Raj_Pariwar/master_1.m3u8
 #EXTINF:-1 tvg-id="RajTV.in" tvg-logo="https://i.imgur.com/4oF38ei.png" group-title="Undefined",Raj TV
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index.m3u8
 #EXTINF:-1 tvg-id="RDXGoa.in" tvg-logo="https://rdxgoa.com/news/wp-content/uploads/2018/07/cropped-RDX-NW-LOGO-8-1.png" group-title="News",RDX Goa (720p)
@@ -882,6 +936,10 @@ https://vg-republictvlive.akamaized.net/ptnr-republicweb/title-Republic_TV_Kanna
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2e31d831f08640ff92f65003bdc89991/index.m3u8
 #EXTINF:-1 tvg-id="RongeenTV.in@SD" tvg-logo="https://i.imgur.com/9gImDY5.png" group-title="Undefined",Rongeen TV (720p)
 https://server.thelegitpro.in/rongeentv/rongeentv/index.m3u8
+#EXTINF:-1 tvg-id="RTDocumentary.ru@English" tvg-logo="https://i.imgur.com/aeu5zIC.png" group-title="Documentary",RT Documentary (1080p)
+https://hls.mskycdn.online/tv/rtd/index.m3u8
+#EXTINF:-1 tvg-id="RT.ru" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" group-title="News",RT News (1080p) [Geo-blocked]
+https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 tvg-id="RTA.af" tvg-logo="https://i.imgur.com/pJU2KPh.png" group-title="General",RTA (1080p)
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA1)/index.m3u8
 #EXTINF:-1 tvg-id="RTAEducation.af" tvg-logo="https://rta.af/artmedia/2022/12/rta-logo-final-300x185.png" group-title="Undefined",RTA Education (1080p)
@@ -890,6 +948,9 @@ https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA4)/index.m3u8
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA2)/index.m3u8
 #EXTINF:-1 tvg-id="RTASport.af" tvg-logo="https://i.imgur.com/lEXrwos.jpg" group-title="Sports",RTA Sport (1080p)
 https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/index.m3u8
+#EXTINF:-1 tvg-id="RTPInternacional.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png" group-title="General" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0",RTP Internacional (504p) [Not 24/7]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:93.0) Gecko/20100101 Firefox/93.0
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="RupasiBangla.in@SD" tvg-logo="https://i.imgur.com/ev0Vazj.png" group-title="Undefined",Rupasi Bangla (720p)
 https://cdn-4.pishow.tv/live/1039/master.m3u8
 #EXTINF:-1 tvg-id="SaamTV.in@SD" tvg-logo="https://i.imgur.com/SNsjJjt.png" group-title="Undefined",Saam TV
@@ -938,6 +999,8 @@ https://deatfcv3xdvi3.cloudfront.net/out/v1/7a43dd2f64e34ec28da1b4bd6923251a/ind
 https://d2vfwvjxwtwq1t.cloudfront.net/out/v1/6b24239d5517495b986e7705490c6e65/index.m3u8
 #EXTINF:-1 tvg-id="SatsangWebTV.in" tvg-logo="https://i.imgur.com/40kNu1w.png" group-title="Undefined",Satsang Web TV (1080p)
 https://d1ji7e9jbzm5g8.cloudfront.net/out/v1/769f22f64d80442889306b9c4abea63c/index.m3u8
+#EXTINF:-1 tvg-id="SBNTVInternational.us@SD" tvg-logo="https://i.imgur.com/NJu6oYB.png" group-title="Religious",SBN TV International
+http://trn03.bozztv.com/gin-sbntv/index.m3u8
 #EXTINF:-1 tvg-id="ShakthiTV.lk@SD" tvg-logo="https://i.imgur.com/RX6IwK8.png" group-title="Undefined",Shakthi TV (360p)
 https://edge4-moblive.yuppcdn.net/transsd/smil:saktv10.smil/playlist.m3u8?dvr
 #EXTINF:-1 tvg-id="Shalom.in@SD" tvg-logo="https://i.imgur.com/7Y2bRDD.png" group-title="Religious",Shalom (1080p) [Not 24/7]
@@ -970,6 +1033,8 @@ https://edge2-moblive.yuppcdn.net/transsd/smil:sirtv09.smil/playlist.m3u8?dvr
 https://segment.yuppcdn.net/240122/siripoli/playlist.m3u8
 #EXTINF:-1 tvg-id="SiyathaTV.lk" tvg-logo="https://i.imgur.com/9Zc8G7i.png" group-title="Undefined",Siyatha TV
 https://rtmp01.voaplus.com/hls/6x6ik312qk4grfxocfcv.m3u8
+#EXTINF:-1 tvg-id="SKITV.ch" tvg-logo="https://i.imgur.com/S6qgwLG.png" group-title="Sports",SKI TV (1080p) [Not 24/7]
+https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
 #EXTINF:-1 tvg-id="SohailTV.ca" tvg-logo="https://i.ibb.co/dtzjKfT/Sohail-TV.png" group-title="General",Sohail TV (1080p)
 https://iptv.sohailtv.com/sohail/playlist/index.m3u8
 #EXTINF:-1 tvg-id="SongdewTV.in" tvg-logo="https://i.imgur.com/aFlKqH4.png" group-title="Undefined",Songdew TV (396p)
@@ -1010,8 +1075,8 @@ https://yuppftalive.akamaized.net/080823/subhartitv/playlist.m3u8
 https://2mk9qae4rwyb-hls-live.wmncdn.net/shubhavartha/live.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="SuchTV.pk@SD" tvg-logo="https://i.imgur.com/yYMh3JJ.png" group-title="News",Such TV
 https://video.primexsports.com/suchnews/live/playlist.m3u8
-#EXTINF:-1 tvg-id="SudarshanNews.in" tvg-logo="https://i.imgur.com/7AV1VI9.png" group-title="News",Sudarshan News (720p)
-https://ott.livelegitpro.in/pusa/sudarshantv/index.m3u8
+#EXTINF:-1 tvg-id="SudarshanNews.in@SD" tvg-logo="https://i.imgur.com/7AV1VI9.png" group-title="News",Sudarshan News (1080p)
+https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="SunoNewsHD.pk" tvg-logo="https://i.imgur.com/FeSntVO.jpg" group-title="News",Suno News HD (720p)
 https://cdn.bmstudiopk.com/sunotv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="SuperyachtTV.mc" tvg-logo="https://i.imgur.com/cgjgjE1.png" group-title="Lifestyle",Superyacht TV (1080p)
@@ -1036,6 +1101,8 @@ https://jk3lz8xklw79-hls-live.5centscdn.com/live/6226f7cbe59e99a90b5cef6f94f966f
 https://cdn-1.pishow.tv/live/385/master.m3u8
 #EXTINF:-1 tvg-id="TaazaTV.in" tvg-logo="https://i.imgur.com/4nTpQLC.png" group-title="Undefined",Taaza TV (1080p)
 https://stream.playbox.co.in:19360/taaza/taaza.m3u8
+#EXTINF:-1 tvg-id="TaiwanPlusTV.tw" tvg-logo="https://i.imgur.com/SfcZyqm.png" group-title="Undefined",Taiwan Plus TV (1080p)
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
 #EXTINF:-1 tvg-id="TamadonTV.af" tvg-logo="https://i.imgur.com/edGyj5H.png" group-title="Undefined",Tamadon TV (720p)
 https://hls.tamadon.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="TamilVisionTV.ca" tvg-logo="https://i.imgur.com/DodsLuW.png" group-title="Undefined",Tamil Vision TV (1080p)
@@ -1074,6 +1141,8 @@ https://d34z4embz0hjf6.cloudfront.net/out/v1/d55b3323a9f142638f897378f0b526fe/in
 https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
 #EXTINF:-1 tvg-id="TribeTV.in" tvg-logo="https://i.imgur.com/zG2P1WZ.png" group-title="General",Tribe TV (720p)
 https://server.livelegitpro.in:9899/tribetv/tribetv/index.m3u8
+#EXTINF:-1 tvg-id="TRTWorld.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/TRT_World.svg/512px-TRT_World.svg.png" group-title="News",TRT World (1080p)
+http://92.114.85.72:8000/play/a02v
 #EXTINF:-1 tvg-id="TV1.lk@SD" tvg-logo="https://i.imgur.com/QShk1BV.png" group-title="Entertainment",TV 1 (576p)
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tv111.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TV5Kannada.in@SD" tvg-logo="https://i.imgur.com/DuZMoo6.png" group-title="Undefined",TV5 Kannada (396p)
@@ -1106,6 +1175,8 @@ https://932y483pdjv8-hls-live.5centscdn.com/stream/deb10bae362f810630ec3abedcae5
 https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8
 #EXTINF:-1 tvg-id="TwentyFourNews.in" tvg-logo="https://i.imgur.com/eS2fVDh.png" group-title="News",Twenty Four News (396p)
 https://segment.yuppcdn.net/110322/channel24/playlist.m3u8
+#EXTINF:-1 tvg-id="UNWebTV.us" tvg-logo="https://i.imgur.com/UcAwBep.png" group-title="News",UN Web TV (540p)
+https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
 #EXTINF:-1 tvg-id="V6News.in@SD" tvg-logo="https://i.imgur.com/ctyGkhe.png" group-title="News",V6 News (576p)
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/v6news_nim_https/140622/v6news/playlist.m3u8
 #EXTINF:-1 tvg-id="VaanavilTV.in" tvg-logo="https://i.imgur.com/etr1k08.png" group-title="Music",Vaanavil TV (720p)
@@ -1146,6 +1217,8 @@ https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 http://kl.logicwebs.in:1935/sreemedia/sreemedia/playlist.m3u8
 #EXTINF:-1 tvg-id="WeatherSpy.in" tvg-logo="https://i.imgur.com/KIEKOt1.png" group-title="Weather",Weatherspy
 https://jukin-weatherspy-2-in.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="WildEarth.uk" tvg-logo="https://i.imgur.com/Vhv5gjN.png" group-title="Undefined",WildEarth [Geo-blocked]
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearthmediap-wildearth-samsungnl/playlist.m3u8
 #EXTINF:-1 tvg-id="WinTV.in@SD" tvg-logo="https://i.imgur.com/xQutJMq.png" group-title="Undefined",Win TV (720p)
 https://cdn-4.pishow.tv/live/1531/master.m3u8
 #EXTINF:-1 tvg-id="WION.in" tvg-logo="https://i.imgur.com/Wc5Z3iS.png" group-title="News",WION (1080p)
@@ -1196,8 +1269,8 @@ https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master
 https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeerajashthannews/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/8e864b9a-1681-41a0-99a6-387490bc5b24/main.m3u8
 #EXTINF:-1 tvg-id="ZeeSalaam.in" tvg-logo="https://i.imgur.com/9wemlu5.png" group-title="Undefined",Zee Salaam (720p)
 https://d3i8oqsdv88b3m.cloudfront.net/out/v1/08f6360f9104421f90319460c0e03f11/index.m3u8
-#EXTINF:-1 tvg-id="ZeeUttarPradeshUttarakhand.in" tvg-logo="https://i.imgur.com/gxKFKRG.png" group-title="Undefined",Zee Uttar Pradesh/Uttarakhand (720p)
-https://livetv-channels.b-cdn.net/8076/playlist.m3u8
+#EXTINF:-1 tvg-id="ZeeUttarPradeshUttarakhand.in@SD" tvg-logo="https://i.imgur.com/gxKFKRG.png" group-title="Undefined",Zee Uttar Pradesh/Uttarakhand (720p)
+https://duw35ict5q7th.cloudfront.net/index_3.m3u8
 #EXTINF:-1 tvg-id="ZhwandoonTV.af@SD" tvg-logo="https://i.imgur.com/F67tuWw.png" group-title="General",Zhwandoon TV
 https://live20.bozztv.com/dvrfl05/gin-zhwandoon/index.m3u8
 #EXTINF:-1 tvg-id="ZillarBartaNews.in" tvg-logo="https://i.imgur.com/6uestzY.jpeg" group-title="Classic;News",ZillarBarta News (720p)
@@ -1206,7 +1279,11 @@ https://live-stream.utkalbongo.com/utkalbongo/stream18/hls/zillarbartalive.m3u8
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
 #EXTINF:-1 tvg-id="Zing.in" tvg-logo="https://i.imgur.com/zStK8g2.png" group-title="Undefined",Zing! (576p)
 http://183.89.246.119:8881/play/a09a/index.m3u8
+#EXTINF:-1 tvg-id="ZooMoo.sg" tvg-logo="https://i.imgur.com/ciTJrnl.png" group-title="Kids",Zoo Moo (Australia) (1080p)
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Zoom.in@SD" tvg-logo="https://i.imgur.com/kcDJ4g0.png" group-title="Undefined",Zoom (720p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
 #EXTINF:-1 tvg-id="RTRPlanetaAsia.ru" tvg-logo="https://i.imgur.com/DTtK0z7.png" group-title="General",РТР Планета Азия
 https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363
+#EXTINF:-1 tvg-id="STSInternational.ru@SD" tvg-logo="https://i.imgur.com/mwiC0RG.png" group-title="Undefined",СТС International
+https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
