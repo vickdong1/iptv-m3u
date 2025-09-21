@@ -43,12 +43,16 @@
 
         /* 头部样式 */
         header {
-            background: linear-gradient(135deg, #4a148c 0%, #6a1b9a 100%);
-            padding: 0;
+            background: linear-gradient(135deg, #4a148c 0%, #6a1b9a 0.5);
             box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
-            position: relative;
+            top:0;
+            left:0;
+            width: 100%;
+            position: fixed;
             overflow: hidden;
-            transition: background 0.3s ease;
+            z-index: 100;
+            opacity:0.8;
+            
         }
 
         header::before {
@@ -173,7 +177,7 @@
         .container {
             max-width: 1200px;
             width: 100%;
-            margin: 5px auto;
+            margin: 80px auto;
             display: flex;
             flex-direction: row;
         }
